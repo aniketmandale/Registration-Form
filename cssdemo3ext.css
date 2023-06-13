@@ -1,0 +1,22 @@
+body{
+    font-family: calibri, Helvetica, sans-serif;
+    width: 500px;
+    margin: auto;
+    background-image: url("C:\Users\anike\OneDrive\Desktop\pexels-valiphotos-589840.jpg");
+}
+.container{
+    padding: 50px;
+    background-color: rgb(129, 245, 145);
+}
+input[type=text], input[type=password], textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+}
+.registerbtn {
+    background-color: #1a531d;
+    color: rgb(215, 110, 110);
+    padding: 14px 15px;
+    margin: 8px 0;
+    border-radius: 5px;
+}
